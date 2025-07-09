@@ -9,9 +9,9 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: ZOn
+  - name: Zeit Online
     url: https://www.zeit.de
-  - name: SpOn
+  - name: Spiegel Online
     url: https://www.spiegel.de
   - name: heise.de
     url: https://heise.de
