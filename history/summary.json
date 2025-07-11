@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 85,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "time": 115,
+    "timeDay": 89,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 268,
-    "timeWeek": 145,
-    "timeMonth": 145,
-    "timeYear": 145,
+    "time": 139,
+    "timeDay": 116,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 388,
-    "timeWeek": 401,
-    "timeMonth": 401,
-    "timeYear": 401,
-    "dailyMinutesDown": {
-      "2025-07-10": 13
-    }
+    "time": 356,
+    "timeDay": 232,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zeit Online",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 357,
-    "timeWeek": 425,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "time": 549,
+    "timeDay": 1043,
+    "timeWeek": 549,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1783,
-    "timeDay": 1991,
-    "timeWeek": 1783,
-    "timeMonth": 1783,
-    "timeYear": 1783,
+    "time": 1967,
+    "timeDay": 2703,
+    "timeWeek": 1967,
+    "timeMonth": 1967,
+    "timeYear": 1967,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2662,
-    "timeDay": 2675,
-    "timeWeek": 2662,
-    "timeMonth": 2662,
-    "timeYear": 2662,
+    "time": 3034,
+    "timeDay": 4523,
+    "timeWeek": 3034,
+    "timeMonth": 3034,
+    "timeYear": 3034,
     "dailyMinutesDown": {}
   }
 ]
