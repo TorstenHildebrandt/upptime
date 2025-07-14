@@ -76,9 +76,9 @@
     "url": "https://www.spiegel.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.spiegel.de.ico",
     "slug": "spiegel-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 2064,
     "timeMonth": 2064,
     "timeYear": 2064,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 0
+    }
   },
   {
     "name": "heise.de",
