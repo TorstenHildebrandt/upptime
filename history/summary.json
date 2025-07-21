@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spiegel.de.ico",
     "slug": "spiegel-online",
     "status": "up",
-    "uptime": "97.60%",
+    "uptime": "97.63%",
     "uptimeDay": "98.11%",
     "uptimeWeek": "96.04%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "97.60%",
+    "uptimeMonth": "97.63%",
+    "uptimeYear": "97.63%",
     "time": 2228,
     "timeDay": 2436,
     "timeWeek": 2305,
@@ -101,9 +101,9 @@
     "url": "https://heise.de",
     "icon": "https://icons.duckduckgo.com/ip3/heise.de.ico",
     "slug": "heise-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,6 +112,8 @@
     "timeWeek": 3618,
     "timeMonth": 3365,
     "timeYear": 3365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-21": 0
+    }
   }
 ]
