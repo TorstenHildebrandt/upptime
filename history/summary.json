@@ -60,18 +60,20 @@
     "url": "https://www.zeit.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeit.de.ico",
     "slug": "zeit-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 828,
-    "timeWeek": 776,
-    "timeMonth": 597,
-    "timeYear": 605,
-    "dailyMinutesDown": {}
+    "time": 677,
+    "timeDay": 5664,
+    "timeWeek": 1991,
+    "timeMonth": 906,
+    "timeYear": 677,
+    "dailyMinutesDown": {
+      "2025-11-19": 0
+    }
   },
   {
     "name": "Spiegel Online",
