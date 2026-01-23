@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 122,
-    "timeDay": 116,
-    "timeWeek": 121,
-    "timeMonth": 142,
+    "timeDay": 135,
+    "timeWeek": 122,
+    "timeMonth": 144,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-12-15": 25,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 194,
-    "timeDay": 192,
+    "time": 195,
+    "timeDay": 199,
     "timeWeek": 164,
-    "timeMonth": 201,
-    "timeYear": 194,
+    "timeMonth": 178,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2025-12-09": 30,
       "2025-12-03": 16
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 300,
-    "timeDay": 432,
-    "timeWeek": 274,
-    "timeMonth": 259,
+    "timeDay": 308,
+    "timeWeek": 278,
+    "timeMonth": 254,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2025-12-17": 30
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 632,
-    "timeDay": 198,
-    "timeWeek": 438,
-    "timeMonth": 508,
-    "timeYear": 632,
+    "time": 631,
+    "timeDay": 329,
+    "timeWeek": 443,
+    "timeMonth": 507,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2025-11-19": 39
     }
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 2137,
-    "timeDay": 1891,
-    "timeWeek": 2103,
-    "timeMonth": 2215,
+    "timeDay": 2159,
+    "timeWeek": 2159,
+    "timeMonth": 2224,
     "timeYear": 2137,
     "dailyMinutesDown": {
       "2025-08-24": 40,
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3204,
-    "timeDay": 2882,
-    "timeWeek": 3319,
-    "timeMonth": 3358,
-    "timeYear": 3204,
+    "time": 3203,
+    "timeDay": 2963,
+    "timeWeek": 3348,
+    "timeMonth": 3372,
+    "timeYear": 3203,
     "dailyMinutesDown": {
       "2025-07-21": 39
     }
