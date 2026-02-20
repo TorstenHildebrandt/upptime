@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 121,
-    "timeDay": 229,
-    "timeWeek": 104,
+    "timeDay": 90,
+    "timeWeek": 105,
     "timeMonth": 118,
     "timeYear": 121,
     "dailyMinutesDown": {
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 193,
-    "timeDay": 189,
-    "timeWeek": 144,
-    "timeMonth": 180,
+    "timeDay": 252,
+    "timeWeek": 170,
+    "timeMonth": 185,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-12-09": 30,
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 295,
-    "timeDay": 316,
-    "timeWeek": 313,
+    "time": 296,
+    "timeDay": 376,
+    "timeWeek": 307,
     "timeMonth": 275,
-    "timeYear": 295,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2025-12-17": 30
     }
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 643,
-    "timeDay": 526,
-    "timeWeek": 692,
-    "timeMonth": 678,
-    "timeYear": 643,
+    "time": 642,
+    "timeDay": 316,
+    "timeWeek": 624,
+    "timeMonth": 676,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2025-11-19": 39
     }
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 2130,
-    "timeDay": 1430,
-    "timeWeek": 1866,
-    "timeMonth": 2042,
-    "timeYear": 2130,
+    "time": 2128,
+    "timeDay": 1471,
+    "timeWeek": 1813,
+    "timeMonth": 2039,
+    "timeYear": 2128,
     "dailyMinutesDown": {
       "2025-08-24": 40,
       "2025-08-23": 20,
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3203,
-    "timeDay": 2488,
-    "timeWeek": 2832,
-    "timeMonth": 3171,
-    "timeYear": 3203,
+    "time": 3199,
+    "timeDay": 2214,
+    "timeWeek": 2779,
+    "timeMonth": 3160,
+    "timeYear": 3199,
     "dailyMinutesDown": {
       "2025-07-21": 39
     }
