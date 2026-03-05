@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 122,
-    "timeDay": 232,
-    "timeWeek": 159,
-    "timeMonth": 116,
+    "timeDay": 78,
+    "timeWeek": 145,
+    "timeMonth": 115,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-12-15": 25,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 193,
-    "timeDay": 194,
+    "timeDay": 102,
     "timeWeek": 197,
-    "timeMonth": 201,
+    "timeMonth": 199,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-12-09": 30,
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 297,
-    "timeDay": 415,
-    "timeWeek": 285,
-    "timeMonth": 305,
-    "timeYear": 297,
+    "time": 298,
+    "timeDay": 452,
+    "timeWeek": 299,
+    "timeMonth": 309,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2025-12-17": 30
     }
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 643,
-    "timeDay": 972,
-    "timeWeek": 755,
-    "timeMonth": 618,
+    "timeDay": 637,
+    "timeWeek": 799,
+    "timeMonth": 630,
     "timeYear": 643,
     "dailyMinutesDown": {
       "2025-11-19": 39
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 2111,
-    "timeDay": 1745,
-    "timeWeek": 1823,
-    "timeMonth": 1878,
-    "timeYear": 2111,
+    "time": 2109,
+    "timeDay": 1746,
+    "timeWeek": 1852,
+    "timeMonth": 1866,
+    "timeYear": 2109,
     "dailyMinutesDown": {
       "2025-08-24": 40,
       "2025-08-23": 20,
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3201,
-    "timeDay": 3133,
-    "timeWeek": 3197,
-    "timeMonth": 3095,
-    "timeYear": 3201,
+    "time": 3198,
+    "timeDay": 2477,
+    "timeWeek": 3234,
+    "timeMonth": 3079,
+    "timeYear": 3198,
     "dailyMinutesDown": {
       "2025-07-21": 39
     }
